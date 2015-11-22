@@ -37,7 +37,7 @@ activity <- read.table("./data/activity_labels.txt")
 
 *Now a seperate data table FinalData-2 with the estimated rows and columns (We need only 180 rows (i.e average of each activity and each subject (6 * 30)) & No of columsn from Final Data - 1)
 
-* Get the average of activity and subjects using colMeans through for loop iteration, output the value to FinalData2.txt
+*Get the average of activity and subjects using colMeans through for loop iteration, output the value to FinalData2.txt
 
 
 
